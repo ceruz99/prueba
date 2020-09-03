@@ -1,4 +1,6 @@
 //Operaciones aritmeticas
+/*hola amigos estoy editando esto*/
+
 
 #include<iostream>
 using namespace std;
